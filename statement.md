@@ -9,13 +9,13 @@ This C# template lets you get started quickly with a simple one-page playground.
 // { autofold
 using System;
 
-class Hello 
+class Howdy 
 {
     static void Main() 
     {
 // }
 
-Console.WriteLine("Hello World!");
+Console.WriteLine("Hello Earthlings!");
 
 // { autofold
     }
