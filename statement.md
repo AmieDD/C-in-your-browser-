@@ -1,6 +1,6 @@
-# Welcome!
+# Howdy!
 
-This C# template lets you get started quickly with a simple one-page playground.
+This C# template lets you get started quickly in your browser. No need to download anything.
 
 ```C# runnable
 //Use C# in your browser. No need to download anything.
